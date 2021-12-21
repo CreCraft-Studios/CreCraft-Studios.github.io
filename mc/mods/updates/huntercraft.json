@@ -1,1 +1,7 @@
-{}
+
+{
+    "homepage": "https://crecraftstudios.com/mc/mods/huntercraft.html",
+    "promos": {
+        "1.18.1-latest": "0.1.0"
+    }
+}
