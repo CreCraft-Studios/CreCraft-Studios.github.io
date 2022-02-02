@@ -5,9 +5,21 @@
 	"users": [
 		{
 			"uuid": "0744212749444f15aa18c3163cfc6497",
-			"colour": "GREEN",
+			"colour": "GOLD",
 			"title": "Developer",
 			"subtitle": "This is a plugin developer"
+		},
+		{
+			"uuid": "edf31c32c65f48be87b6db8848a90732",
+			"colour": "GREEN",
+			"title": "QA",
+			"subtitle": "This is a plugin quality tester"
+		},
+		{
+			"uuid": "d01449c621b84d90bf307059e55c53f5",
+			"colour": "GREEN",
+			"title": "QA",
+			"subtitle": "This is a plugin quality tester"
 		}
 	]
 }
