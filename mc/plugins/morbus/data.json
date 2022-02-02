@@ -4,10 +4,10 @@
 	"prefix": "[M]",
 	"users": [
 		{
-			"hash": "7cd435188a33348b6ffd8ade8c4aa9a4abefca9a6be45ce8af63ed579a79d077",
+			"uuid": "0744212749444f15aa18c3163cfc6497",
 			"color": "GREEN",
-			"title": "Morbus Developer",
-			"subtitle": "This is a morbus plugin developer"
+			"title": "Developer",
+			"subtitle": "This is a plugin developer"
 		}
 	]
 }
