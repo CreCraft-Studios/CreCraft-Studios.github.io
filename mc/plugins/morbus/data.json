@@ -5,7 +5,7 @@
 	"users": [
 		{
 			"uuid": "0744212749444f15aa18c3163cfc6497",
-			"color": "GREEN",
+			"colour": "GREEN",
 			"title": "Developer",
 			"subtitle": "This is a plugin developer"
 		}
