@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "prefix": "[M]",
+  "users": {
+    "uuid": {
+      "colour": "GOLD",
+      "title": "Developer",
+      "subtitle": "This is a plugin developer"
+    }
+  }
+}
