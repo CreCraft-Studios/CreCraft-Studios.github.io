@@ -6,6 +6,21 @@
       "colour": "GOLD",
       "title": "Developer",
       "subtitle": "This is a plugin developer"
+    },
+    "831ccb47-0d37-417a-abfc-9bb12372a4ea": {
+      "colour": "RED",
+      "title": "Some Kid",
+      "subtitle": "This kid just wanted a prefix.\nSo he got one, because, why not"
+    },
+    "edf31c32-c65f-48be-87b6-db8848a90732": {
+      "colour": "GREEN",
+      "title": "QA",
+      "subtitle": "This is a plugin quality tester"
+    },
+    "d01449c6-21b8-4d90-bf30-7059e55c53f5": {
+      "colour": "GREEN",
+      "title": "QA",
+      "subtitle": "This is a plugin quality tester"
     }
   }
 }
